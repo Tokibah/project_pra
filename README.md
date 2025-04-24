@@ -1,16 +1,3 @@
-# project_praq
+# Pra-Q Training
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app was developed as part of a practical training (Pra-Q) program, focusing on mastering the basic structure of a Flutter application. It features a simple login and sign-in system, allowing users to create an account and securely log in. The app emphasizes user authentication fundamentals, clean UI design, and smooth navigation. making it a perfect foundation for beginners to understand essential app development concepts.
